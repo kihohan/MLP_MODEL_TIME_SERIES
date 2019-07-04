@@ -8,4 +8,4 @@
 5. Multi-output: 다변량 각각을 일기간 예측(개별적으로 처리하여 입력층과 출력층을 하나의 모형으로 결합)
 6. Multi-step MLP Models: 일변량 다기간 예측
 7. Multiple Input Multi-step Output: 다변량 일기간 예측
-8. Multiple Parallel Input Multi-step Output: 다변량 다기간 예측
+8. Multiple Parallel Input Multi-step Output: 다변량 각각 다기간 예측
